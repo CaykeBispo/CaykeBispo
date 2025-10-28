@@ -150,8 +150,5 @@ Me chamo Cayke Bispo, tenho 20 anos e sou natural de SP. Concluí o ensino médi
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=caykebispo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-
-<img src="https://raw.githubusercontent.com/caykebispo/caykebispo/output/snake.svg" alt="Snake animation" />
 </p>
 
