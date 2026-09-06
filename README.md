@@ -8,11 +8,11 @@
 
 <br/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
 ### ✨ Sobre mim
+
+</div>
 
 Tenho 21 anos, sou de São Paulo e estou cursando **Análise e Desenvolvimento de Sistemas** na FIAP.
 
@@ -22,15 +22,6 @@ Sou movido por curiosidade: gosto de entender como as coisas funcionam por trás
 - 🌱 Aprofundando conhecimento em arquitetura de sistemas e boas práticas
 - 💬 Aberto a trocar ideias sobre tecnologia, produtos e carreira
 - ⚡ Curiosidade é meu principal combustível
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CaykeBispo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br" alt="GitHub Stats" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -68,14 +59,6 @@ Sou movido por curiosidade: gosto de entender como as coisas funcionam por trás
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="42" height="42"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="42" height="42"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ" width="42" height="42"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaykeBispo&theme=tokyonight&hide_border=true&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=9" alt="Top Languages" />
 
 </div>
 
