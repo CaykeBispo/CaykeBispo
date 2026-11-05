@@ -90,8 +90,8 @@ Gosto de entender como as coisas funcionam por trás dos panos e transformar ide
 
 ### 📊 GitHub
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CaykeBispo&show_icons=true&hide_border=true&bg_color=0D111700&title_color=55960C&icon_color=55960C&text_color=8b949e&locale=pt-br" />
-<img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaykeBispo&layout=compact&hide_border=true&bg_color=0D111700&title_color=55960C&text_color=8b949e&locale=pt-br" />
+<img height="165" alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=CaykeBispo&show_icons=true&hide_border=true&bg_color=0D111700&title_color=55960C&icon_color=55960C&text_color=8b949e&locale=pt-br" />
+<img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=CaykeBispo&layout=compact&hide_border=true&bg_color=0D111700&title_color=55960C&text_color=8b949e&locale=pt-br" />
 
 </div>
 
