@@ -33,14 +33,12 @@ Gosto de entender como as coisas funcionam por trás dos panos e transformar ide
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| Middleware WhatsApp e ERP (Ogochi) 🔒 | Middleware que dispara templates no WhatsApp via CommaCX, recebe as respostas do cliente e atualiza o Protheus por endpoint, em dois fluxos completos | Python, FastAPI, Swagger |
-| Migração de base de conhecimento (Sankhya) 🔒 | Migração de artigos entre centrais Zendesk, padronizando conteúdo e categorias | Zendesk Guide |
-| Ajustes no Guide da Asus 🔒 | Ajustes na central de ajuda Zendesk do cliente | Zendesk Guide |
-| [UT](https://github.com/CaykeBispo/ut-roblox) | Jogo multiplayer estilo Ultimate Team com servidor autoritativo, PvP, mercado e persistência | Luau, Rojo |
+| Middleware WhatsApp e ERP 🔒 | Middleware que dispara templates no WhatsApp via CommaCX, recebe as respostas e atualiza o ERP (Protheus) por endpoint, em dois fluxos completos | Python, FastAPI, Swagger |
 | [Sistema Bancário Virtual](https://github.com/CaykeBispo/sistema-bancario-virtual) | Interface com processamento seguro de transações | HTML, CSS, JavaScript, PHP |
-| [Bot Discord com IA](https://github.com/CaykeBispo/discord-ai-bot) | Bot com respostas geradas por OpenAI ou Groq e fallback | Node.js |
+| [UT](https://github.com/CaykeBispo/ut-roblox) | Jogo multiplayer em Roblox com arquitetura server-authoritative, PvP e persistência | Luau, Rojo |
+| [Bot Discord com IA](https://github.com/CaykeBispo/discord-ai-bot) | Bot com respostas geradas por OpenAI/Groq e fallback | Node.js |
 
-<sub>🔒 Projetos feitos na BCR.CX para clientes, com código privado.</sub>
+<sub>🔒 Projeto feito na BCR.CX para cliente, com código privado. Também atuo com administração e migração de bases de conhecimento Zendesk.</sub>
 
 <br/>
 
